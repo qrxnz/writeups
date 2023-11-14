@@ -169,7 +169,7 @@ Now we have the salt and hash of the password, we can try to crack them.
 # Hashcat goes brrr
 
 ```bash
-hashcat -a 7 -m 0 a0de4d7f81676c3ea9eabcadfd2536f6 '6c4972f3717a5e881e282ad3105de01e|triss|' /usr/share/seclists/Passwords/Leaked-Databases/rockyou.txt
+hashcat -a 7 -m 0 a0de4d7f81676c3ea9eabcadfd2536f6 '6c4972f3717a5e881e282ad3105de01e|triss|' /usr/share/wordlists/rockyou.txt
 ```
 ```
 a0de4d7f81676c3ea9eabcadfd2536f6:6c4972f3717a5e881e282ad3105de01e|triss|gerald
