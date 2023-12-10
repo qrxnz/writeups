@@ -13,7 +13,7 @@
 
 ## Nmap
 
-I started with a standard namp scan.
+I started with a standard nmap scan.
 
 ```
 ➜  ~ nmap -Pn -p- -A -vvv --min-rate 1500 --max-rtt-timeout 1500ms 10.10.126.173
