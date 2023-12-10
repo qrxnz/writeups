@@ -1,5 +1,6 @@
 
 - [Enumeration](#enumeration)
+  - [Nmap](#nmap)
 - [Rsync](#im-trying-to-use-rsync)
 - [Analysis](#analysis)
   - [PHP code](#php-code)
@@ -9,6 +10,8 @@
 - [Privilege escallation](#privilege-escallation)
 
 # Enumeration
+
+## Nmap
 
 I started with a standard namp scan.
 
