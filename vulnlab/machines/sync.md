@@ -2,7 +2,6 @@
 - [Enumeration](#enumeration)
 - [Rsync](#im-trying-to-use-rsync)
 - [Analysis](#analysis)
-  - [Tree of downloaded files](#tree-of-downloaded-files)
   - [PHP code](#php-code)
   - [Database](#database)
 - [Hashcat goes brrr](#hashcat-goes-brrr)
