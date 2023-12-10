@@ -1,3 +1,14 @@
+
+- [Enumeration](#enumeration)
+- [Rsync](#im-trying-to-use-rsync)
+- [Analysis](#analysis)
+  - [Tree of downloaded files](#tree-of-downloaded-files)
+  - [PHP code](#php-code)
+  - [Database](#database)
+- [Hashcat goes brrr](#hashcat-goes-brrr)
+- [Try to connect to machine](#try-to-connect-to-machine)
+- [Privilege escallation](#privilege-escallation)
+- 
 # Enumeration
 
 I started with a standard namp scan.
