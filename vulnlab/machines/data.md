@@ -1,12 +1,12 @@
-- [Enumeration](#enumeration)
-  - [Nmap](#nmap)
-- [Grafana port 3000](#grafana-port-3000)
-  - [Exploitation](#exploitation)
-- [Cracking passwords](#cracking-passwords)
-  - [Prepare hashes](#prepare-hashes)
-  - [Hashcat](#hashcat)
-- [Connect to ssh](#connect-to-ssh)
-- [Privilege escalation](#privilege-escalation)
+- I. [Enumeration](#enumeration)
+  - II. [Nmap](#nmap)
+- III. [Grafana port 3000](#grafana-port-3000)
+  - IV. [Exploitation](#exploitation)
+- V. [Cracking passwords](#cracking-passwords)
+  - VI. [Prepare hashes](#prepare-hashes)
+  - VII. [Hashcat](#hashcat)
+- VIII. [Connect to ssh](#connect-to-ssh)
+- IX. [Privilege escalation](#privilege-escalation)
 
 # Enumeration
 
