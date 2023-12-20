@@ -1,13 +1,13 @@
 # Contents
-- [Enumeration](#enumeration)
-  - [Nmap](#nmap)
-- [Rsync](#im-trying-to-use-rsync)
-- [Analysis](#analysis)
-  - [PHP code](#php-code)
-  - [Database](#database)
-- [Hashcat goes brrr](#hashcat-goes-brrr)
-- [Try to connect to machine](#try-to-connect-to-machine)
-- [Privilege escallation](#privilege-escallation)
+- I. [Enumeration](#enumeration)
+  - II. [Nmap](#nmap)
+- III. [Rsync](#im-trying-to-use-rsync)
+- IV. [Analysis](#analysis)
+  - V. [PHP code](#php-code)
+  - VI. [Database](#database)
+- VII. [Hashcat goes brrr](#hashcat-goes-brrr)
+- VIII. [Try to connect to machine](#try-to-connect-to-machine)
+- IX [Privilege escallation](#privilege-escallation)
 
 # Enumeration
 
